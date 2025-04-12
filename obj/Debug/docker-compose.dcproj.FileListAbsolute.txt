@@ -1,0 +1,1 @@
+D:\Work\ExpenseTracker\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
